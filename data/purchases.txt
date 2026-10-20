@@ -1,0 +1,4 @@
+Paris,500
+Tunis,300
+Paris,100
+Sousse,200
